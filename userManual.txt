@@ -1,0 +1,84 @@
+Introduction
+Welcome to Jim's Steak & Spaghetti House website! This user manual will guide you through navigating the website, accessing features, and making the most of your online experience with us. Whether you're viewing the menu, contacting us, or just browsing, this guide will ensure a smooth experience.
+________________________________________
+Homepage
+• Header:
+At the top of the homepage, you'll find:
+1. Logo: Click on the logo to return to the homepage from any page.
+2. Tagline: "Family Owned and Operated Since 1938."
+3. Navigation Bar: Provides links to the main pages:
+  - Home: Returns to the homepage.
+  - Get To Know Us: Learn about Jim’s history and tradition.
+  - Our Menu: Explore our full menu.
+  - Contact Us: Reach out to us directly.
+• YouTube Video Section:
+The homepage includes a featured YouTube video showcasing the tradition of Jim's Steak & Spaghetti House.
+1. How to Use:
+  - Click the play button on the embedded video to watch.
+  - Controls such as volume adjustment, full-screen mode, and playback speed are available directly on the video.
+  - The video gives a behind-the-scenes look at Jim’s famous Strawberry Pie Week, adding a personal touch to the website experience.
+• Footer:
+The footer contains:
+  - Contact information
+  - A link to our Facebook page
+  - Copyright information
+________________________________________
+Navigation Bar
+• Purpose: Quickly access any section of the website.
+• Features:
+  - Changes layout for mobile devices into a hamburger menu (three horizontal lines). Tap the icon to view the navigation links.
+________________________________________
+Menu Page
+• Overview: This page provides a detailed list of all the delicious dishes we serve.
+• Featured Dishes Section:
+Scroll down to see highlighted dishes, including:
+  - Famous Spaghetti
+  - Ribeye Steak
+  - Homemade Pie
+Note: This section is hidden on mobile devices for a cleaner experience.
+• Sections:
+  - Appetizers: Start your meal with a selection of soups and other small dishes.
+  - Spaghetti & Ravioli: Explore our signature dishes served with salad, bread, and beverages.
+  - Sandwiches: A variety of options from hamburgers to haddock fish sandwiches.
+  - Salads: Fresh salads with a choice of dressings.
+  - Dinners: Entrees like ribeye steak, grilled chicken, and haddock with sides.
+  - Desserts: Indulge in homemade pies and seasonal favorites.
+  - To-Go Items: Take Jim’s flavors home with convenient pint or quart-sized options.
+• Quick Navigation:
+Use the anchor links at the top of the menu page to jump directly to a specific section.
+________________________________________
+Contact Page
+• Overview:
+Get in touch with us or find our location and phone number.
+• Features:
+  - Address and Phone Number: Easily find us at 920 5th Avenue, Huntington, WV, or call us at (304) 696-9788.
+  - Contact Form:
+    - Fill in your name, email, and message.
+    - Click "Send Message" to contact us directly.
+________________________________________
+Mobile Features
+• Responsive Design:
+The website automatically adapts to your screen size, ensuring a smooth experience on phones and tablets.
+• Hamburger Menu:
+Tap the hamburger menu icon on smaller devices to access the navigation links.
+________________________________________
+Using the Website
+1. Access the Menu:
+  - Click on "Our Menu" in the navigation bar.
+  - Scroll or use anchor links to find the items you're interested in.
+2. Contact Us:
+  - Navigate to "Contact Us" from the navigation bar.
+  - Use the form to send a message or call the restaurant directly.
+3. Learn About Us:
+  - Visit "Get To Know Us" to explore Jim’s history and legacy.
+4. Responsive Browsing:
+  - Resize your browser window or view on mobile to see how the site adjusts.
+________________________________________
+Troubleshooting
+• Navigation Bar Not Visible: Ensure your screen isn’t zoomed in too far on mobile. Reload the page if necessary.
+• Contact Form Not Submitting: Check that all required fields are filled in and your internet connection is stable.
+• Images Not Loading: Ensure you have a stable internet connection. Try refreshing the page.
+________________________________________
+Conclusion
+The Jim’s Steak & Spaghetti House website is designed to make your browsing experience simple and enjoyable. Whether you’re looking for menu details, contact information, or a taste of our history, this guide ensures you’ll find what you need with ease.
+For further assistance, feel free to contact us through the provided form on the Contact Us page. We look forward to serving you!
