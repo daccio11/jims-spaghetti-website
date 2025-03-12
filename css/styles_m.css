@@ -1,0 +1,113 @@
+/* Menu Hero Section */
+.menu-hero {
+    text-align: center;
+    padding: 20px;
+    background-color: #FCF7E1;
+}
+
+.menu-hero h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #004631;
+    margin-bottom: 10px;
+}
+
+.menu-hero p, .menu-hero h3 {
+    color: #004631;
+    font-size: 1em;
+}
+
+/* Menu Navigation Styles */
+.navbg {
+    background-color: #004631;
+    padding: 10px 0;
+}
+
+.mainnav {
+    list-style-type: none;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+}
+
+.mainnav li {
+    display: inline;
+}
+
+.mainnav a {
+    color: #FCF7E1;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    transition: color 0.3s ease;
+}
+
+.mainnav a:hover {
+    color: #a1bbca;
+}
+
+
+.menu-content{
+    margin-left: 5px;
+}
+
+/* Featured Dishes Section */
+.featured-dishes {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: #FCF7E1;
+}
+
+.dish {
+    text-align: center;
+    max-width: 300px;
+}
+
+.featured-img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Hover Effect for Featured Images */
+.featured-img:hover {
+    transform: scale(1.05);
+}
+
+.dish h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #004631;
+    margin-top: 10px;
+}
+
+.dish p {
+    color: #00261b;
+    font-size: 1em;
+}
+
+/* Responsive Design for Menu Navigation */
+@media only screen and (max-width: 768px) {
+    .mainnav {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+/* Hide Featured Dishes Section on Tablet and Mobile */
+@media only screen and (max-width: 1024px) {
+    .featured-dishes {
+        display: none;
+    }
+}
